@@ -1,6 +1,3 @@
 # Java-starter
- 对于从事Java开发的一些思考
- 目录：
-    https://github.com/giantray/stackoverflow-java-top-qa/blob/master/contents/implements-runnable-vs-extends-thread.md
-    
- 内容：
+  从事Java开发有一段时间了，之前的想法一直都是我就想做Java开发，从Java最底层JDK层面开始学起就可以了。但是随着工作年限的加深，发现这种想法真的是大错特错，很多问题只从Java层面考虑已经思考不清楚了。比如锁机制，就要透过JVM，操作系统，一直到计算机体系结构层面的锁总线，锁缓存才能完全理解清楚。我们计算机是一个上层依赖下层，环环相扣的统一整体，必须有一种从底层学到上层，再从上层俯视下层的方式方法才能算真正学懂
+ 
